@@ -23,3 +23,7 @@ Again, there are movies that Microsoft must prioritize to achieve highly desired
 #### Recommendation 4
 ![download png1](https://user-images.githubusercontent.com/110408623/187019716-439f012d-d612-41a0-ae8c-f2729c31aeda.png)
 There is the need to overlook the voting concept since it is just slightly correlated with popularity.
+### Directives 
+Initial work submitted as jupyter notebook.ipynb
+Write up as Phase 1 project write up
+Presentation as presentation(1).pdf
