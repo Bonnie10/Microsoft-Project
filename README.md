@@ -25,5 +25,7 @@ Again, there are movies that Microsoft must prioritize to achieve highly desired
 There is the need to overlook the voting concept since it is just slightly correlated with popularity.
 ### Directives 
 Initial work submitted as jupyter notebook.ipynb
+
 Write up as Phase 1 project write up
+
 Presentation as presentation(1).pdf
