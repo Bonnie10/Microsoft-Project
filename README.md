@@ -2,11 +2,11 @@
 ![Microsoft-Germany-QSO4YOU-Flickr-e1615214999765](https://user-images.githubusercontent.com/110408623/187019342-00aed145-90a2-4de1-b07b-a14ba97ad309.jpg)
 
 ## Overview
-Expansion is a central aim for all organizations. However, several things are worth consiering for an organization to reap the maximum benefit of expansion. Otherwise, it may en up loosing in a fiel others are oing goo in. 
-Microsoft entering the movie prouction inustry is a positive move in its expansion in the technology inustry. However, it must be informe enough to reap the benefits of the expansion. Thus, it is crucial that it looks into the movie prouction market an ientify the most seling movies an the best stuio to put up. Also, it must look into the profitability of the business omestically an globally for maximum benefits. 
+Expansion is a central aim for all organizations. However, several things are worth consiering for an organization to reap the maximum benefit of expansion. Otherwise, it may end up loosing in a field others are oing good in. 
+Microsoft entering the movie prouction industry is a positive move in its expansion in the technology industry. However, it must be informed enough to reap the benefits of the expansion. Thus, it is crucial that it looks into the movie production market and identify the most selling movies and the best studio to put up. Also, it must look into the profitability of the business domestically and globally for maximum benefits. 
 
 ## Business Understanding
-The project aims at proviing irectives on the possible lookout factors before entering the movie manufacturing inustry. The provision of a path on the vital element is imminent, from which euctions are mae base on the evaluation of the factors. It answers some of the future questions regaring this entry on what type of movies the company shoul prouce base on customer consumption. Also, the project evaluates the sales in markets for a transparent target market, either omestic or foreign, base on the movies' gross sales in both markets. Consiering that profit making is a sole purpose in this organization, just like any other, a cost-benefit analysis concerning the prouction buget, foreign an worlwie gross sales conflict to give way forward on whether the firm shoul enter the market.
+The project aims at providing directives on the possible lookout factors before entering the movie production industry. The provision of a path on the vital element is imminent, from which deductions are made based on the evaluation of the factors. It answers some of the future questions regarding this entry on what type of movies the company shoul prouce base on customer consumption. Also, the project evaluates the sales in markets for a transparent target market, either omestic or foreign, base on the movies' gross sales in both markets. Consiering that profit making is a sole purpose in this organization, just like any other, a cost-benefit analysis concerning the prouction buget, foreign an worlwie gross sales conflict to give way forward on whether the firm shoul enter the market.
 
 This project finds out whether Microsoft should enter the movie production industry or not. If yes, what is the relationship between some lookout factors, and which top movies should venture into the initial production to break even and compete with other companies in the industry?
 
@@ -23,4 +23,3 @@ Again, there are movies that Microsoft must prioritize to achieve highly desired
 #### Recommendation 4
 ![download png1](https://user-images.githubusercontent.com/110408623/187019716-439f012d-d612-41a0-ae8c-f2729c31aeda.png)
 There is the need to overlook the voting concept since it is just slightly correlated with popularity.
-
